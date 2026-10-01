@@ -6,3 +6,5 @@ TODO: Datensatz-Quelle ergaenzen (folgt in C04).
 
 
 Kurzbeschreibung
+
+Status: 🚧 in Bearbeitung
